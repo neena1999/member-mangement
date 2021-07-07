@@ -1,5 +1,5 @@
 # Member-mangement
 - user page (edit delete)
 - create user
-- role page
+- role page (edit delete)
 - create role
