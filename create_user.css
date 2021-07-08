@@ -271,9 +271,8 @@ input[type=submit]:hover {
     border-color:#858585;
 }
 .btn-success{
-    background-color: #67da76;
-    border-color:#67da76;
-}
+    background-color: #61aa82;
+    border-color:#61aa82;
 }
 .btn-sm {
     height: 2rem;
